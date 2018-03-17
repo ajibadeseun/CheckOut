@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "441014855935",
+    "firebase_url": "https://check-out-196717.firebaseio.com",
+    "project_id": "check-out-196717",
+    "storage_bucket": "check-out-196717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441014855935:android:5f0f80b8c689557c",
+        "android_client_info": {
+          "package_name": "com.treble.checkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441014855935-tlrnbp5tck2r17s6pp5fn0mfl1ublvs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.treble.checkout",
+            "certificate_hash": "30bb621a68039ea68956246f4ed78b2aa07c8265"
+          }
+        },
+        {
+          "client_id": "441014855935-onovn41gfjv4qjhu0o4tob42p4n03f7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_CzL2MML3-ZjdlDmVMuxHWJjcFJUKMpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441014855935-onovn41gfjv4qjhu0o4tob42p4n03f7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=42:8C:E8:08:94:B1:76:04:51:26:E1:75:A7:7D:30:A3:BE:7C:34:02%3Bcom.treble.checkout
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    42:8C:E8:08:94:B1:76:04:51:26:E1:75:A7:7D:30:A3:BE:7C:34:02
+
+    SHA-1 certificate fingerprint:
+    42:8C:E8:08:94:B1:76:04:51:26:E1:75:A7:7D:30:A3:BE:7C:34:02
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBgWcHPxk26lr2WogcqSHp1OeIAGuotP2I</string>
+</resources>
